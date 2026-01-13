@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+}
+
+
+.hero {
+    background: linear-gradient(to right,
+            #f5c400,
+            #e30613,
+            #005aa7);
+    height: 25vh;
+}
+
+
+h2 {
+    color: #003768;
+    font-weight: bold;
+}
+
+
+.carousel img {
+    max-height: 450px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+
+.footer {
+    background-color: #000000;
+}
+
+.footer a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.video-diretor {
+    max-width: 360px;
+    margin: 0 auto;
+}
+
+.video-wrapper {
+  width: 360px;
+  height: 640px;   
+  margin: 0 auto;
+}
+
+.video-wrapper iframe {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}
+
+.hero h1,
+.hero p {
+    font-family: 'Poppins', sans-serif;
+}
