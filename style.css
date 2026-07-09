@@ -6,9 +6,9 @@ body {
 
 .hero {
     background: linear-gradient(to right,
-            #f5c400,
-            #e30613,
-            #005aa7);
+            #00f521,
+            #06c2e3,
+            #002da7);
     height: 25vh;
 }
 
@@ -23,7 +23,7 @@ h2 {
     max-height: 450px;
     object-fit: cover;
     border-radius: 8px;
-}
+}s
 
 
 .footer {
